@@ -1,11 +1,11 @@
 {
-  "title": "One Move at a Time",
+  "title": "Moment to Live",
   "artist": "September Skies",
   "album": "One Move at a Time",
   "type": "Latest Single",
-  "cover": "images/covers/september-skies-one-move-at-a-time-cover.png",
-  "image": "images/covers/september-skies-one-move-at-a-time-cover.png",
-  "audio": "https://www.dropbox.com/scl/fi/d1e4kiyy4xme7g4656jrt/one-move-at-a-time-live-premier.mp3?rlkey=6acr74q1omxqu2h9kze6xr0h0&raw=1",
-  "audioSrc": "https://www.dropbox.com/scl/fi/d1e4kiyy4xme7g4656jrt/one-move-at-a-time-live-premier.mp3?rlkey=6acr74q1omxqu2h9kze6xr0h0&raw=1",
+  "cover": "https://raw.githubusercontent.com/SteveP999/september-skies/main/images/covers/september-skies-moment-to-live-cover.png",
+  "image": "https://raw.githubusercontent.com/SteveP999/september-skies/main/images/covers/september-skies-moment-to-live-cover.png",
+  "audio": "https://www.dropbox.com/scl/fi/b0gq0xfl1tzelkwztw8s8/september-skies-moment-to-live.mp3?rlkey=lgry7yd1dcy4pj765j2h12k84&raw=1",
+  "audioSrc": "https://www.dropbox.com/scl/fi/b0gq0xfl1tzelkwztw8s8/september-skies-moment-to-live.mp3?rlkey=lgry7yd1dcy4pj765j2h12k84&raw=1",
   "videos": []
 }
