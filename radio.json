@@ -2,14 +2,22 @@
   "artist": "September Skies",
   "latestUrl": "latest.json",
   "featuredTrack": {
-    "title": "Life in the Light",
+    "title": "Four Seasons One Heart",
     "artist": "September Skies",
     "album": "One Move at a Time",
-    "cover": "https://raw.githubusercontent.com/SteveP999/september-skies/main/images/covers/september-skies-life-in-the-light-cover.png",
-    "audioSrc": "https://www.dropbox.com/scl/fi/gmsamup3bfiiwb0libxop/september-skies-life-in-the-light-mp3.mp3?rlkey=mhxx75x2xqf5k5esdt6joqstt&raw=1",
+    "cover": "https://raw.githubusercontent.com/SteveP999/september-skies/main/images/covers/september-skies-four-seasons-one-heart-cover.png",
+    "audioSrc": "https://www.dropbox.com/scl/fi/cxdd9b5g4q4me0u2aw12d/september-skies-four-seasons-one-heart-mp3.mp3?rlkey=dpyb3lxqj5zj4e4fpo12fhviv&raw=1",
     "videos": []
   },
   "tracks": [
+    {
+      "title": "Four Seasons One Heart",
+      "artist": "September Skies",
+      "album": "One Move at a Time",
+      "cover": "https://raw.githubusercontent.com/SteveP999/september-skies/main/images/covers/september-skies-four-seasons-one-heart-cover.png",
+      "audioSrc": "https://www.dropbox.com/scl/fi/cxdd9b5g4q4me0u2aw12d/september-skies-four-seasons-one-heart-mp3.mp3?rlkey=dpyb3lxqj5zj4e4fpo12fhviv&raw=1",
+      "videos": []
+    },
     {
       "title": "Life in the Light",
       "artist": "September Skies",
@@ -48,6 +56,14 @@
       "album": "One Move at a Time",
       "cover": "https://raw.githubusercontent.com/SteveP999/september-skies/main/images/covers/september-skies-shine-for-all-time-cover.png",
       "audioSrc": "https://www.dropbox.com/scl/fi/jkukm6o7wy611leuu7xlm/september-skies-shine-for-all-time-mp3.mp3?rlkey=4un7snrpkasg5z1lozmxqi926&raw=1",
+      "videos": []
+    },
+    {
+      "title": "Turn Back Time",
+      "artist": "September Skies",
+      "album": "One Move at a Time",
+      "cover": "https://raw.githubusercontent.com/SteveP999/september-skies/main/images/covers/september-skies-turn-back-time-cover.png",
+      "audioSrc": "https://www.dropbox.com/scl/fi/acgvt3qtfpwabagp3y65f/september-skies-turn-back-time-mp3.mp3?rlkey=kgbjj8nyz75losghc5phbe41y&raw=1",
       "videos": []
     }
   ]
