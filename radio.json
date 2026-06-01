@@ -2,14 +2,22 @@
   "artist": "September Skies",
   "latestUrl": "latest.json",
   "featuredTrack": {
-    "title": "Four Seasons One Heart",
+    "title": "Bending Not Breaking",
     "artist": "September Skies",
     "album": "One Move at a Time",
-    "cover": "https://raw.githubusercontent.com/SteveP999/september-skies/main/images/covers/september-skies-four-seasons-one-heart-cover.png",
-    "audioSrc": "https://www.dropbox.com/scl/fi/cxdd9b5g4q4me0u2aw12d/september-skies-four-seasons-one-heart-mp3.mp3?rlkey=dpyb3lxqj5zj4e4fpo12fhviv&raw=1",
+    "cover": "https://raw.githubusercontent.com/SteveP999/september-skies/main/images/covers/september-skies-bending-not-breaking-cover.png",
+    "audioSrc": "https://www.dropbox.com/scl/fi/ro9nfodo63kytb5fs8q43/september-skies-bending-not-breaking-mp3.mp3?rlkey=6q0vpndzf7qzo8ym50486u798&raw=1",
     "videos": []
   },
   "tracks": [
+    {
+      "title": "Bending Not Breaking",
+      "artist": "September Skies",
+      "album": "One Move at a Time",
+      "cover": "https://raw.githubusercontent.com/SteveP999/september-skies/main/images/covers/september-skies-bending-not-breaking-cover.png",
+      "audioSrc": "https://www.dropbox.com/scl/fi/ro9nfodo63kytb5fs8q43/september-skies-bending-not-breaking-mp3.mp3?rlkey=6q0vpndzf7qzo8ym50486u798&raw=1",
+      "videos": []
+    },
     {
       "title": "Four Seasons One Heart",
       "artist": "September Skies",
