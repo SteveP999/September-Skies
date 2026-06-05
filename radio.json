@@ -2,11 +2,11 @@
   "artist": "September Skies",
   "latestUrl": "latest.json",
   "featuredTrack": {
-    "title": "Bending Not Breaking",
+    "title": "Serenity",
     "artist": "September Skies",
     "album": "One Move at a Time",
-    "cover": "https://raw.githubusercontent.com/SteveP999/september-skies/main/images/covers/september-skies-bending-not-breaking-cover.png",
-    "audioSrc": "https://www.dropbox.com/scl/fi/ro9nfodo63kytb5fs8q43/september-skies-bending-not-breaking-mp3.mp3?rlkey=6q0vpndzf7qzo8ym50486u798&raw=1",
+    "cover": "https://raw.githubusercontent.com/SteveP999/september-skies/main/images/covers/september-skies-serenity-cover.png",
+    "audioSrc": "https://www.dropbox.com/scl/fo/5larb5l3imxyhvik24epj/ADdjSii9ZoVkV_VpegZGRTA?rlkey=konam20ywtx2zioymx4sxww47&raw=1",
     "videos": []
   },
   "tracks": [
@@ -56,6 +56,14 @@
       "album": "One Move at a Time",
       "cover": "https://raw.githubusercontent.com/SteveP999/september-skies/main/images/covers/september-skies-perfectly-imperfect-cover.png",
       "audioSrc": "https://www.dropbox.com/scl/fi/lg6e6m5qbxuuh41uuggww/silent-oblivion-perfectly-imperfect.mp3.mp3?rlkey=eja1hfky1z793h9jtstd271bj&raw=1",
+      "videos": []
+    },
+    {
+      "title": "Serenity",
+      "artist": "September Skies",
+      "album": "One Move at a Time",
+      "cover": "https://raw.githubusercontent.com/SteveP999/september-skies/main/images/covers/september-skies-serenity-cover.png",
+      "audioSrc": "https://www.dropbox.com/scl/fo/5larb5l3imxyhvik24epj/ADdjSii9ZoVkV_VpegZGRTA?rlkey=konam20ywtx2zioymx4sxww47&raw=1",
       "videos": []
     },
     {
