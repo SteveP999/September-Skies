@@ -14,12 +14,12 @@ gtag('config', 'G-4PCFSEQJZ1');
 <link rel="manifest" href="manifest.json">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Barlow+Condensed:wght@300;400;600;700&family=Barlow:wght@300;400;500&display=block" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=DM+Sans:wght@300;400;500&display=block" rel="stylesheet">
 <style>
 *,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
 :root{
---black:#0A0805;--ink:#131009;--deep:#1A1510;--mid:#221C12;
---accent:#C8922A;--accent-lt:#E8AD4A;--cream:#F2EBD8;--muted:#8A7E68;--white:#F8F2E4;
+--black:#06070C;--ink:#0C0D14;--deep:#10111A;--mid:#161820;
+--accent:#7C6FA0;--accent-lt:#A99DC8;--cream:#D4D6E4;--muted:#5C5F72;--white:#EEEEF6;
 --accent-glow:color-mix(in srgb, var(--accent) 28%, transparent);
 --line:color-mix(in srgb, var(--accent) 32%, transparent);
 --discography-bg:url('images/artist/september-skies-discography-bg.png');
@@ -31,7 +31,7 @@ html{scroll-behavior:smooth}
 body{
   background:var(--black);
   color:var(--cream);
-  font-family:'Barlow',sans-serif;
+  font-family:'DM Sans',sans-serif;
   font-weight:300;
   font-size:15px;
   line-height:1.75;
@@ -78,7 +78,7 @@ a{color:inherit}
   color:var(--cream);
   opacity:.82;
   text-decoration:none;
-  font-family:'Barlow Condensed',serif;
+  font-family:'DM Serif Display',serif;
   font-size:.78rem;
   letter-spacing:.21em;
   text-transform:uppercase;
@@ -132,18 +132,18 @@ a{color:inherit}
 }
 .stage-title-fallback{
   display:none;
-  font-family:'Bebas Neue',serif;
+  font-family:'DM Serif Display',serif;
   font-size:clamp(4rem,9vw,8rem);
   line-height:.95;
   color:var(--white);
-  text-transform:uppercase;
+  text-transform:none;
   letter-spacing:.06em;
   margin-bottom:1.2rem;
 }
 .stage-tag{
   margin-top:1.1rem;
   color:var(--accent);
-  font-family:'Barlow Condensed',serif;
+  font-family:'DM Serif Display',serif;
   font-size:.72rem;
   letter-spacing:.36em;
   text-transform:uppercase;
@@ -152,7 +152,7 @@ a{color:inherit}
   max-width:760px;
   margin:.4rem auto 1.1rem;
   color:var(--cream);
-  font-family:'Bebas Neue',serif;
+  font-family:'DM Serif Display',serif;
   font-size:clamp(1.1rem,2vw,1.65rem);
   font-style:italic;
   opacity:.92;
@@ -165,7 +165,7 @@ a{color:inherit}
   color:var(--black);
   border:none;
   padding:.9rem 2.2rem;
-  font-family:'Barlow Condensed',serif;
+  font-family:'DM Serif Display',serif;
   font-size:.8rem;
   font-weight:700;
   letter-spacing:.18em;
@@ -180,7 +180,7 @@ a{color:inherit}
   padding:.9rem 2.2rem;
   text-decoration:none;
   display:inline-block;
-  font-family:'Barlow Condensed',serif;
+  font-family:'DM Serif Display',serif;
   font-size:.8rem;
   letter-spacing:.18em;
   text-transform:uppercase;
@@ -190,14 +190,14 @@ a{color:inherit}
 
 .section-header{position:relative;text-align:center;padding:4.25rem 2rem 2.5rem;z-index:1}
 .section-eyebrow{
-  font-family:'Barlow Condensed',serif;
+  font-family:'DM Serif Display',serif;
   font-size:.66rem;
   letter-spacing:.32em;
   text-transform:uppercase;
   color:var(--accent);
   margin-bottom:.85rem;
 }
-.section-title{font-family:'Bebas Neue',serif;font-size:clamp(2.1rem,4vw,3.5rem);font-weight:400;color:var(--white);text-transform:uppercase;letter-spacing:.045em}
+.section-title{font-family:'DM Serif Display',serif;font-size:clamp(2.1rem,4vw,3.5rem);font-weight:400;color:var(--white);text-transform:none;letter-spacing:.045em}
 .rule{width:78px;height:1px;background:linear-gradient(to right,transparent,var(--accent),transparent);margin:1rem auto 0;opacity:.88}
 
 #latest-single{
@@ -210,10 +210,10 @@ a{color:inherit}
 }
 .latest-inner{max-width:1080px;margin:0 auto;padding:0 2.5rem;display:grid;grid-template-columns:360px 1fr;gap:4rem;align-items:center}
 .latest-cover{width:100%;aspect-ratio:1;object-fit:cover;display:block;border-radius:var(--radius);box-shadow:0 0 50px var(--accent-glow),0 24px 64px rgba(0,0,0,.8)}
-.latest-badge,.album-badge{font-family:'Barlow Condensed',serif;display:inline-block;font-size:.58rem;letter-spacing:.25em;text-transform:uppercase;color:var(--accent);border:1px solid var(--line);padding:.28rem .85rem;margin-bottom:1.2rem}
-.latest-title{font-family:'Bebas Neue',serif;font-size:clamp(1.9rem,3.6vw,3rem);font-weight:400;color:var(--white);line-height:1.12;margin-bottom:.4rem;text-transform:uppercase}
-.latest-sub,.album-artist{font-family:'Barlow Condensed',serif;font-size:.68rem;letter-spacing:.22em;text-transform:uppercase;color:var(--muted);margin-bottom:2rem}
-.latest-play-btn{display:inline-flex;align-items:center;gap:.75rem;background:transparent;color:var(--accent);border:1px solid var(--line);padding:.85rem 2rem;font-family:'Barlow Condensed',serif;font-size:.76rem;font-weight:700;letter-spacing:.16em;text-transform:uppercase;transition:border-color .2s,background .2s}
+.latest-badge,.album-badge{font-family:'DM Serif Display',serif;display:inline-block;font-size:.58rem;letter-spacing:.25em;text-transform:uppercase;color:var(--accent);border:1px solid var(--line);padding:.28rem .85rem;margin-bottom:1.2rem}
+.latest-title{font-family:'DM Serif Display',serif;font-size:clamp(1.9rem,3.6vw,3rem);font-weight:400;color:var(--white);line-height:1.12;margin-bottom:.4rem;text-transform:none}
+.latest-sub,.album-artist{font-family:'DM Serif Display',serif;font-size:.68rem;letter-spacing:.22em;text-transform:uppercase;color:var(--muted);margin-bottom:2rem}
+.latest-play-btn{display:inline-flex;align-items:center;gap:.75rem;background:transparent;color:var(--accent);border:1px solid var(--line);padding:.85rem 2rem;font-family:'DM Serif Display',serif;font-size:.76rem;font-weight:700;letter-spacing:.16em;text-transform:uppercase;transition:border-color .2s,background .2s}
 .latest-play-btn:hover{background:var(--accent-glow)}
 
 #albums{
@@ -304,8 +304,8 @@ a{color:inherit}
 .release-card:hover .release-overlay{background:rgba(0,0,0,.38)}
 .release-play{width:48px;height:48px;border:2px solid var(--accent);background:rgba(0,0,0,.65);color:var(--accent);display:flex;align-items:center;justify-content:center;opacity:0;transform:scale(.86);transition:opacity .25s,transform .25s}
 .release-card:hover .release-play{opacity:1;transform:scale(1)}
-.release-title{font-family:'Bebas Neue',serif;font-size:1.08rem;color:var(--white);line-height:1.15;margin-top:.85rem;text-transform:uppercase}
-.release-album{font-family:'Barlow Condensed',serif;font-size:.62rem;letter-spacing:.14em;text-transform:uppercase;color:var(--muted);margin-top:.25rem}
+.release-title{font-family:'DM Serif Display',serif;font-size:1.08rem;color:var(--white);line-height:1.15;margin-top:.85rem;text-transform:none}
+.release-album{font-family:'DM Serif Display',serif;font-size:.62rem;letter-spacing:.14em;text-transform:uppercase;color:var(--muted);margin-top:.25rem}
 
 .lower-video-section{
   position:relative;
@@ -342,7 +342,7 @@ a{color:inherit}
 }
 .video-coming-soon.visible{display:flex}
 .video-coming-soon .play-triangle{width:0;height:0;border-top:28px solid transparent;border-bottom:28px solid transparent;border-left:46px solid var(--accent);opacity:.9;margin-bottom:1.6rem;filter:drop-shadow(0 0 18px var(--accent-glow))}
-.video-coming-soon strong{font-family:'Bebas Neue',serif;font-size:1.65rem;font-weight:400;color:var(--white);margin-bottom:.55rem;text-transform:uppercase}
+.video-coming-soon strong{font-family:'DM Serif Display',serif;font-size:1.65rem;font-weight:400;color:var(--white);margin-bottom:.55rem;text-transform:none}
 .video-coming-soon span{color:var(--muted);font-size:.92rem;max-width:560px;text-align:center}
 
 #bio{
@@ -398,17 +398,17 @@ a{color:inherit}
   display:block;
 }
 .video-card-title{
-  font-family:'Bebas Neue',serif;
+  font-family:'DM Serif Display',serif;
   font-size:1.2rem;
   color:var(--white);
   padding:1rem 1rem .15rem;
-  text-transform:uppercase;
+  text-transform:none;
 }
 .video-card-actions{
   padding:.45rem 1rem 1rem;
 }
 .video-card-sub{
-  font-family:'Barlow Condensed',serif;
+  font-family:'DM Serif Display',serif;
   font-size:.62rem;
   letter-spacing:.22em;
   text-transform:uppercase;
@@ -420,7 +420,7 @@ a{color:inherit}
 #player.visible{display:grid;transform:translateY(0)}
 .p-info{display:flex;align-items:center;gap:1rem;min-width:0}
 .p-thumb{width:42px;height:42px;object-fit:cover;flex-shrink:0;border:1px solid var(--line)}
-.p-title{font-family:'Bebas Neue',serif;font-size:1rem;color:var(--white);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.p-title{font-family:'DM Serif Display',serif;font-size:1rem;color:var(--white);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
 .p-sub{font-size:.6rem;letter-spacing:.14em;text-transform:uppercase;color:var(--muted);opacity:.7}
 .p-controls{display:flex;align-items:center;flex-direction:column;flex:1;gap:.5rem;min-width:0}
 .p-btn-row{display:flex;align-items:center;gap:1.2rem}
@@ -494,7 +494,7 @@ footer{background:var(--black);border-top:1px solid var(--line);padding:4rem 2re
   border-top:1px solid var(--faded-line);
 }
 .album-track-art-heading{
-  font-family:'Barlow Condensed',serif;
+  font-family:'DM Serif Display',serif;
   font-size:.72rem;
   letter-spacing:.32em;
   text-transform:uppercase;
@@ -881,7 +881,7 @@ footer{background:linear-gradient(to bottom,rgba(0,0,0,.28),rgba(0,0,0,.52)),var
   <div class="stage-inner">
     <div class="stage-logo"><img src="images/logos/september-skies-logo.png" alt="September Skies logo" onerror="this.style.display='none';document.getElementById('stage-fallback').style.display='block';"></div>
     <h1 id="stage-fallback" class="stage-title-fallback">September Skies</h1>
-    <div class="stage-tag">Hello Texas Records · Country</div>
+    <div class="stage-tag">Hello Texas Records</div>
     <p class="stage-tagline">Alternative rock that fills a stadium with one chord</p>
     <div class="stage-actions">
       <button class="cta-primary" onclick="playLatest()">Listen Now</button>
@@ -946,7 +946,7 @@ footer{background:linear-gradient(to bottom,rgba(0,0,0,.28),rgba(0,0,0,.52)),var
 </div>
 
 <audio id="audio"></audio>
-<script id="artist-data" type="application/json">{"artist": {"id": "september-skies", "name": "September Skies", "genre": "Alternative Rock", "tagline": "Alternative rock that fills a stadium with one chord", "bio": "Alternative rock that fills a stadium with one chord", "theme": "rock", "logo": "images/logos/september-skies-logo.png", "hero": "images/artist/september-skies-hero-photo.png", "discographyBg": "images/artist/september-skies-discography-bg.png", "videoBg": "images/artist/september-skies-video-bg.png", "photos": ["images/artist/september-skies-photo-1.png", "images/artist/september-skies-photo-2.png", "images/artist/september-skies-photo-3.png"]}, "latest": {"title": "Serena", "artist": "September Skies", "album": "One Move at a Time", "type": "Latest Single", "cover": "https://raw.githubusercontent.com/SteveP999/september-skies/main/images/covers/september-skies-serena-cover.png", "image": "https://raw.githubusercontent.com/SteveP999/september-skies/main/images/covers/september-skies-serena-cover.png", "audio": "https://www.dropbox.com/scl/fi/704jbke40c9q3y3jwqn0l/september-skies-serena-mp3.mp3?rlkey=7sh3b38a6zc7r81s1f61ydrne&raw=1", "audioSrc": "https://www.dropbox.com/scl/fi/704jbke40c9q3y3jwqn0l/september-skies-serena-mp3.mp3?rlkey=7sh3b38a6zc7r81s1f61ydrne&raw=1", "videos": []}, "songs": [{"id": "september-skies-bending-not-breaking", "num": "01", "title": "Bending Not Breaking", "artist": "September Skies", "album": "One Move at a Time", "trackNumber": 1, "albumOrder": 1, "albumCover": "https://raw.githubusercontent.com/SteveP999/september-skies/main/images/covers/september-skies-one-move-at-a-time-ALBUM-cover.png", "type": "single", "isLatest": false, "cover": "https://raw.githubusercontent.com/SteveP999/september-skies/main/images/covers/september-skies-bending-not-breaking-cover.png", "audio": "https://www.dropbox.com/scl/fi/ro9nfodo63kytb5fs8q43/september-skies-bending-not-breaking-mp3.mp3?rlkey=6q0vpndzf7qzo8ym50486u798&raw=1", "audioSrc": "https://www.dropbox.com/scl/fi/ro9nfodo63kytb5fs8q43/september-skies-bending-not-breaking-mp3.mp3?rlkey=6q0vpndzf7qzo8ym50486u798&raw=1", "videos": [], "includeOnRadio": true, "includeOnHomepage": true, "explicit": false, "tags": []}, {"id": "september-skies-four-seasons-one-heart", "num": "02", "title": "Four Seasons One Heart", "artist": "September Skies", "album": "One Move at a Time", "trackNumber": 2, "albumOrder": 2, "albumCover": "https://raw.githubusercontent.com/SteveP999/september-skies/main/images/covers/september-skies-one-move-at-a-time-ALBUM-cover.png", "type": "single", "isLatest": false, "cover": "https://raw.githubusercontent.com/SteveP999/september-skies/main/images/covers/september-skies-four-seasons-one-heart-cover.png", "audio": "https://www.dropbox.com/scl/fi/cxdd9b5g4q4me0u2aw12d/september-skies-four-seasons-one-heart-mp3.mp3?rlkey=dpyb3lxqj5zj4e4fpo12fhviv&raw=1", "audioSrc": "https://www.dropbox.com/scl/fi/cxdd9b5g4q4me0u2aw12d/september-skies-four-seasons-one-heart-mp3.mp3?rlkey=dpyb3lxqj5zj4e4fpo12fhviv&raw=1", "videos": [], "includeOnRadio": true, "includeOnHomepage": true, "explicit": false, "tags": []}, {"id": "september-skies-life-in-the-light", "num": "03", "title": "Life in the Light", "artist": "September Skies", "album": "One Move at a Time", "trackNumber": 3, "albumOrder": 3, "albumCover": "https://raw.githubusercontent.com/SteveP999/september-skies/main/images/covers/september-skies-one-move-at-a-time-ALBUM-cover.png", "type": "single", "isLatest": false, "cover": "https://raw.githubusercontent.com/SteveP999/september-skies/main/images/covers/september-skies-life-in-the-light-cover.png", "audio": "https://www.dropbox.com/scl/fi/gmsamup3bfiiwb0libxop/september-skies-life-in-the-light-mp3.mp3?rlkey=mhxx75x2xqf5k5esdt6joqstt&raw=1", "audioSrc": "https://www.dropbox.com/scl/fi/gmsamup3bfiiwb0libxop/september-skies-life-in-the-light-mp3.mp3?rlkey=mhxx75x2xqf5k5esdt6joqstt&raw=1", "videos": [], "includeOnRadio": true, "includeOnHomepage": true, "explicit": false, "tags": []}, {"id": "september-skies-moment-to-live", "num": "04", "title": "Moment to Live", "artist": "September Skies", "album": "One Move at a Time", "trackNumber": 4, "albumOrder": 4, "albumCover": "https://raw.githubusercontent.com/SteveP999/september-skies/main/images/covers/september-skies-one-move-at-a-time-ALBUM-cover.png", "type": "single", "isLatest": false, "cover": "https://raw.githubusercontent.com/SteveP999/september-skies/main/images/covers/september-skies-moment-to-live-cover.png", "audio": "https://www.dropbox.com/scl/fi/b0gq0xfl1tzelkwztw8s8/september-skies-moment-to-live.mp3?rlkey=lgry7yd1dcy4pj765j2h12k84&raw=1", "audioSrc": "https://www.dropbox.com/scl/fi/b0gq0xfl1tzelkwztw8s8/september-skies-moment-to-live.mp3?rlkey=lgry7yd1dcy4pj765j2h12k84&raw=1", "videos": [], "includeOnRadio": true, "includeOnHomepage": true, "explicit": false, "tags": []}, {"id": "september-skies-one-move-at-a-time", "num": "05", "title": "One Move at a Time", "artist": "September Skies", "album": "One Move at a Time", "trackNumber": 5, "albumOrder": 5, "albumCover": "https://raw.githubusercontent.com/SteveP999/september-skies/main/images/covers/september-skies-one-move-at-a-time-ALBUM-cover.png", "type": "single", "isLatest": false, "cover": "https://raw.githubusercontent.com/SteveP999/september-skies/main/images/covers/september-skies-one-move-at-a-time-cover.png", "audio": "https://www.dropbox.com/scl/fi/d1e4kiyy4xme7g4656jrt/one-move-at-a-time-live-premier.mp3?rlkey=6acr74q1omxqu2h9kze6xr0h0&raw=1", "audioSrc": "https://www.dropbox.com/scl/fi/d1e4kiyy4xme7g4656jrt/one-move-at-a-time-live-premier.mp3?rlkey=6acr74q1omxqu2h9kze6xr0h0&raw=1", "videos": [], "includeOnRadio": true, "includeOnHomepage": true, "explicit": false, "tags": []}, {"id": "september-skies-perfectly-imperfect", "num": "06", "title": "Perfectly Imperfect", "artist": "September Skies", "album": "One Move at a Time", "trackNumber": 6, "albumOrder": 6, "albumCover": "https://raw.githubusercontent.com/SteveP999/september-skies/main/images/covers/september-skies-one-move-at-a-time-ALBUM-cover.png", "type": "single", "isLatest": false, "cover": "https://raw.githubusercontent.com/SteveP999/september-skies/main/images/covers/september-skies-perfectly-imperfect-cover.png", "audio": "https://www.dropbox.com/scl/fi/lg6e6m5qbxuuh41uuggww/silent-oblivion-perfectly-imperfect.mp3.mp3?rlkey=eja1hfky1z793h9jtstd271bj&raw=1", "audioSrc": "https://www.dropbox.com/scl/fi/lg6e6m5qbxuuh41uuggww/silent-oblivion-perfectly-imperfect.mp3.mp3?rlkey=eja1hfky1z793h9jtstd271bj&raw=1", "videos": [], "includeOnRadio": true, "includeOnHomepage": true, "explicit": false, "tags": []}, {"id": "september-skies-serena", "num": "07", "title": "Serena", "artist": "September Skies", "album": "One Move at a Time", "trackNumber": 7, "albumOrder": 7, "albumCover": "https://raw.githubusercontent.com/SteveP999/september-skies/main/images/covers/september-skies-one-move-at-a-time-ALBUM-cover.png", "type": "single", "isLatest": true, "cover": "https://raw.githubusercontent.com/SteveP999/september-skies/main/images/covers/september-skies-serena-cover.png", "audio": "https://www.dropbox.com/scl/fi/704jbke40c9q3y3jwqn0l/september-skies-serena-mp3.mp3?rlkey=7sh3b38a6zc7r81s1f61ydrne&raw=1", "audioSrc": "https://www.dropbox.com/scl/fi/704jbke40c9q3y3jwqn0l/september-skies-serena-mp3.mp3?rlkey=7sh3b38a6zc7r81s1f61ydrne&raw=1", "videos": [], "includeOnRadio": true, "includeOnHomepage": true, "explicit": false, "tags": []}, {"id": "september-skies-serenity", "num": "08", "title": "Serenity", "artist": "September Skies", "album": "One Move at a Time", "trackNumber": 8, "albumOrder": 8, "albumCover": "https://raw.githubusercontent.com/SteveP999/september-skies/main/images/covers/september-skies-one-move-at-a-time-ALBUM-cover.png", "type": "single", "isLatest": false, "cover": "https://raw.githubusercontent.com/SteveP999/september-skies/main/images/covers/september-skies-serenity-cover.png", "audio": "https://www.dropbox.com/scl/fo/5larb5l3imxyhvik24epj/ADdjSii9ZoVkV_VpegZGRTA?rlkey=konam20ywtx2zioymx4sxww47&raw=1", "audioSrc": "https://www.dropbox.com/scl/fo/5larb5l3imxyhvik24epj/ADdjSii9ZoVkV_VpegZGRTA?rlkey=konam20ywtx2zioymx4sxww47&raw=1", "videos": [], "includeOnRadio": true, "includeOnHomepage": true, "explicit": false, "tags": []}, {"id": "september-skies-shine-for-all-time", "num": "09", "title": "Shine For All Time", "artist": "September Skies", "album": "One Move at a Time", "trackNumber": 9, "albumOrder": 9, "albumCover": "https://raw.githubusercontent.com/SteveP999/september-skies/main/images/covers/september-skies-one-move-at-a-time-ALBUM-cover.png", "type": "single", "isLatest": false, "cover": "https://raw.githubusercontent.com/SteveP999/september-skies/main/images/covers/september-skies-shine-for-all-time-cover.png", "audio": "https://www.dropbox.com/scl/fi/jkukm6o7wy611leuu7xlm/september-skies-shine-for-all-time-mp3.mp3?rlkey=4un7snrpkasg5z1lozmxqi926&raw=1", "audioSrc": "https://www.dropbox.com/scl/fi/jkukm6o7wy611leuu7xlm/september-skies-shine-for-all-time-mp3.mp3?rlkey=4un7snrpkasg5z1lozmxqi926&raw=1", "videos": [], "includeOnRadio": true, "includeOnHomepage": true, "explicit": false, "tags": []}, {"id": "september-skies-turn-back-time", "num": "10", "title": "Turn Back Time", "artist": "September Skies", "album": "One Move at a Time", "trackNumber": 10, "albumOrder": 10, "albumCover": "https://raw.githubusercontent.com/SteveP999/september-skies/main/images/covers/september-skies-one-move-at-a-time-ALBUM-cover.png", "type": "album track", "isLatest": false, "cover": "https://raw.githubusercontent.com/SteveP999/september-skies/main/images/covers/september-skies-turn-back-time-cover.png", "audio": "https://www.dropbox.com/scl/fi/acgvt3qtfpwabagp3y65f/september-skies-turn-back-time-mp3.mp3?rlkey=kgbjj8nyz75losghc5phbe41y&raw=1", "audioSrc": "https://www.dropbox.com/scl/fi/acgvt3qtfpwabagp3y65f/september-skies-turn-back-time-mp3.mp3?rlkey=kgbjj8nyz75losghc5phbe41y&raw=1", "videos": [], "includeOnRadio": true, "includeOnHomepage": false, "explicit": false, "tags": []}], "hasVideoSection": true}</script>
+<script id="artist-data" type="application/json">{"artist": {"id": "september-skies", "name": "September Skies", "genre": "Alternative Rock", "tagline": "Alternative rock that fills a stadium with one chord", "bio": "Alternative rock that fills a stadium with one chord", "theme": "violet_indie", "logo": "images/logos/september-skies-logo.png", "hero": "images/artist/september-skies-hero-photo.png", "discographyBg": "images/artist/september-skies-discography-bg.png", "videoBg": "images/artist/september-skies-video-bg.png", "photos": ["images/artist/september-skies-photo-1.png", "images/artist/september-skies-photo-2.png", "images/artist/september-skies-photo-3.png"]}, "latest": {"title": "Serena", "artist": "September Skies", "album": "One Move at a Time", "type": "Latest Single", "cover": "https://raw.githubusercontent.com/SteveP999/september-skies/main/images/covers/september-skies-serena-cover.png", "image": "https://raw.githubusercontent.com/SteveP999/september-skies/main/images/covers/september-skies-serena-cover.png", "audio": "https://www.dropbox.com/scl/fi/704jbke40c9q3y3jwqn0l/september-skies-serena-mp3.mp3?rlkey=7sh3b38a6zc7r81s1f61ydrne&raw=1", "audioSrc": "https://www.dropbox.com/scl/fi/704jbke40c9q3y3jwqn0l/september-skies-serena-mp3.mp3?rlkey=7sh3b38a6zc7r81s1f61ydrne&raw=1", "videos": []}, "songs": [{"id": "september-skies-bending-not-breaking", "num": "01", "title": "Bending Not Breaking", "artist": "September Skies", "album": "One Move at a Time", "trackNumber": 1, "albumOrder": 1, "albumCover": "https://raw.githubusercontent.com/SteveP999/september-skies/main/images/covers/september-skies-one-move-at-a-time-ALBUM-cover.png", "type": "single", "isLatest": false, "cover": "https://raw.githubusercontent.com/SteveP999/september-skies/main/images/covers/september-skies-bending-not-breaking-cover.png", "audio": "https://www.dropbox.com/scl/fi/ro9nfodo63kytb5fs8q43/september-skies-bending-not-breaking-mp3.mp3?rlkey=6q0vpndzf7qzo8ym50486u798&raw=1", "audioSrc": "https://www.dropbox.com/scl/fi/ro9nfodo63kytb5fs8q43/september-skies-bending-not-breaking-mp3.mp3?rlkey=6q0vpndzf7qzo8ym50486u798&raw=1", "videos": [], "includeOnRadio": true, "includeOnHomepage": true, "explicit": false, "tags": []}, {"id": "september-skies-four-seasons-one-heart", "num": "02", "title": "Four Seasons One Heart", "artist": "September Skies", "album": "One Move at a Time", "trackNumber": 2, "albumOrder": 2, "albumCover": "https://raw.githubusercontent.com/SteveP999/september-skies/main/images/covers/september-skies-one-move-at-a-time-ALBUM-cover.png", "type": "single", "isLatest": false, "cover": "https://raw.githubusercontent.com/SteveP999/september-skies/main/images/covers/september-skies-four-seasons-one-heart-cover.png", "audio": "https://www.dropbox.com/scl/fi/cxdd9b5g4q4me0u2aw12d/september-skies-four-seasons-one-heart-mp3.mp3?rlkey=dpyb3lxqj5zj4e4fpo12fhviv&raw=1", "audioSrc": "https://www.dropbox.com/scl/fi/cxdd9b5g4q4me0u2aw12d/september-skies-four-seasons-one-heart-mp3.mp3?rlkey=dpyb3lxqj5zj4e4fpo12fhviv&raw=1", "videos": [], "includeOnRadio": true, "includeOnHomepage": true, "explicit": false, "tags": []}, {"id": "september-skies-life-in-the-light", "num": "03", "title": "Life in the Light", "artist": "September Skies", "album": "One Move at a Time", "trackNumber": 3, "albumOrder": 3, "albumCover": "https://raw.githubusercontent.com/SteveP999/september-skies/main/images/covers/september-skies-one-move-at-a-time-ALBUM-cover.png", "type": "single", "isLatest": false, "cover": "https://raw.githubusercontent.com/SteveP999/september-skies/main/images/covers/september-skies-life-in-the-light-cover.png", "audio": "https://www.dropbox.com/scl/fi/gmsamup3bfiiwb0libxop/september-skies-life-in-the-light-mp3.mp3?rlkey=mhxx75x2xqf5k5esdt6joqstt&raw=1", "audioSrc": "https://www.dropbox.com/scl/fi/gmsamup3bfiiwb0libxop/september-skies-life-in-the-light-mp3.mp3?rlkey=mhxx75x2xqf5k5esdt6joqstt&raw=1", "videos": [], "includeOnRadio": true, "includeOnHomepage": true, "explicit": false, "tags": []}, {"id": "september-skies-moment-to-live", "num": "04", "title": "Moment to Live", "artist": "September Skies", "album": "One Move at a Time", "trackNumber": 4, "albumOrder": 4, "albumCover": "https://raw.githubusercontent.com/SteveP999/september-skies/main/images/covers/september-skies-one-move-at-a-time-ALBUM-cover.png", "type": "single", "isLatest": false, "cover": "https://raw.githubusercontent.com/SteveP999/september-skies/main/images/covers/september-skies-moment-to-live-cover.png", "audio": "https://www.dropbox.com/scl/fi/b0gq0xfl1tzelkwztw8s8/september-skies-moment-to-live.mp3?rlkey=lgry7yd1dcy4pj765j2h12k84&raw=1", "audioSrc": "https://www.dropbox.com/scl/fi/b0gq0xfl1tzelkwztw8s8/september-skies-moment-to-live.mp3?rlkey=lgry7yd1dcy4pj765j2h12k84&raw=1", "videos": [], "includeOnRadio": true, "includeOnHomepage": true, "explicit": false, "tags": []}, {"id": "september-skies-one-move-at-a-time", "num": "05", "title": "One Move at a Time", "artist": "September Skies", "album": "One Move at a Time", "trackNumber": 5, "albumOrder": 5, "albumCover": "https://raw.githubusercontent.com/SteveP999/september-skies/main/images/covers/september-skies-one-move-at-a-time-ALBUM-cover.png", "type": "single", "isLatest": false, "cover": "https://raw.githubusercontent.com/SteveP999/september-skies/main/images/covers/september-skies-one-move-at-a-time-cover.png", "audio": "https://www.dropbox.com/scl/fi/d1e4kiyy4xme7g4656jrt/one-move-at-a-time-live-premier.mp3?rlkey=6acr74q1omxqu2h9kze6xr0h0&raw=1", "audioSrc": "https://www.dropbox.com/scl/fi/d1e4kiyy4xme7g4656jrt/one-move-at-a-time-live-premier.mp3?rlkey=6acr74q1omxqu2h9kze6xr0h0&raw=1", "videos": [], "includeOnRadio": true, "includeOnHomepage": true, "explicit": false, "tags": []}, {"id": "september-skies-perfectly-imperfect", "num": "06", "title": "Perfectly Imperfect", "artist": "September Skies", "album": "One Move at a Time", "trackNumber": 6, "albumOrder": 6, "albumCover": "https://raw.githubusercontent.com/SteveP999/september-skies/main/images/covers/september-skies-one-move-at-a-time-ALBUM-cover.png", "type": "single", "isLatest": false, "cover": "https://raw.githubusercontent.com/SteveP999/september-skies/main/images/covers/september-skies-perfectly-imperfect-cover.png", "audio": "https://www.dropbox.com/scl/fi/lg6e6m5qbxuuh41uuggww/silent-oblivion-perfectly-imperfect.mp3.mp3?rlkey=eja1hfky1z793h9jtstd271bj&raw=1", "audioSrc": "https://www.dropbox.com/scl/fi/lg6e6m5qbxuuh41uuggww/silent-oblivion-perfectly-imperfect.mp3.mp3?rlkey=eja1hfky1z793h9jtstd271bj&raw=1", "videos": [], "includeOnRadio": true, "includeOnHomepage": true, "explicit": false, "tags": []}, {"id": "september-skies-serena", "num": "07", "title": "Serena", "artist": "September Skies", "album": "One Move at a Time", "trackNumber": 7, "albumOrder": 7, "albumCover": "https://raw.githubusercontent.com/SteveP999/september-skies/main/images/covers/september-skies-one-move-at-a-time-ALBUM-cover.png", "type": "single", "isLatest": true, "cover": "https://raw.githubusercontent.com/SteveP999/september-skies/main/images/covers/september-skies-serena-cover.png", "audio": "https://www.dropbox.com/scl/fi/704jbke40c9q3y3jwqn0l/september-skies-serena-mp3.mp3?rlkey=7sh3b38a6zc7r81s1f61ydrne&raw=1", "audioSrc": "https://www.dropbox.com/scl/fi/704jbke40c9q3y3jwqn0l/september-skies-serena-mp3.mp3?rlkey=7sh3b38a6zc7r81s1f61ydrne&raw=1", "videos": [], "includeOnRadio": true, "includeOnHomepage": true, "explicit": false, "tags": []}, {"id": "september-skies-serenity", "num": "08", "title": "Serenity", "artist": "September Skies", "album": "One Move at a Time", "trackNumber": 8, "albumOrder": 8, "albumCover": "https://raw.githubusercontent.com/SteveP999/september-skies/main/images/covers/september-skies-one-move-at-a-time-ALBUM-cover.png", "type": "single", "isLatest": false, "cover": "https://raw.githubusercontent.com/SteveP999/september-skies/main/images/covers/september-skies-serenity-cover.png", "audio": "https://www.dropbox.com/scl/fo/5larb5l3imxyhvik24epj/ADdjSii9ZoVkV_VpegZGRTA?rlkey=konam20ywtx2zioymx4sxww47&raw=1", "audioSrc": "https://www.dropbox.com/scl/fo/5larb5l3imxyhvik24epj/ADdjSii9ZoVkV_VpegZGRTA?rlkey=konam20ywtx2zioymx4sxww47&raw=1", "videos": [], "includeOnRadio": true, "includeOnHomepage": true, "explicit": false, "tags": []}, {"id": "september-skies-shine-for-all-time", "num": "09", "title": "Shine For All Time", "artist": "September Skies", "album": "One Move at a Time", "trackNumber": 9, "albumOrder": 9, "albumCover": "https://raw.githubusercontent.com/SteveP999/september-skies/main/images/covers/september-skies-one-move-at-a-time-ALBUM-cover.png", "type": "single", "isLatest": false, "cover": "https://raw.githubusercontent.com/SteveP999/september-skies/main/images/covers/september-skies-shine-for-all-time-cover.png", "audio": "https://www.dropbox.com/scl/fi/jkukm6o7wy611leuu7xlm/september-skies-shine-for-all-time-mp3.mp3?rlkey=4un7snrpkasg5z1lozmxqi926&raw=1", "audioSrc": "https://www.dropbox.com/scl/fi/jkukm6o7wy611leuu7xlm/september-skies-shine-for-all-time-mp3.mp3?rlkey=4un7snrpkasg5z1lozmxqi926&raw=1", "videos": [], "includeOnRadio": true, "includeOnHomepage": true, "explicit": false, "tags": []}, {"id": "september-skies-turn-back-time", "num": "10", "title": "Turn Back Time", "artist": "September Skies", "album": "One Move at a Time", "trackNumber": 10, "albumOrder": 10, "albumCover": "https://raw.githubusercontent.com/SteveP999/september-skies/main/images/covers/september-skies-one-move-at-a-time-ALBUM-cover.png", "type": "album track", "isLatest": false, "cover": "https://raw.githubusercontent.com/SteveP999/september-skies/main/images/covers/september-skies-turn-back-time-cover.png", "audio": "https://www.dropbox.com/scl/fi/acgvt3qtfpwabagp3y65f/september-skies-turn-back-time-mp3.mp3?rlkey=kgbjj8nyz75losghc5phbe41y&raw=1", "audioSrc": "https://www.dropbox.com/scl/fi/acgvt3qtfpwabagp3y65f/september-skies-turn-back-time-mp3.mp3?rlkey=kgbjj8nyz75losghc5phbe41y&raw=1", "videos": [], "includeOnRadio": true, "includeOnHomepage": false, "explicit": false, "tags": []}], "hasVideoSection": true}</script>
 <script>
 const DATA = JSON.parse(document.getElementById('artist-data').textContent);
 const SONGS = DATA.songs || [];
