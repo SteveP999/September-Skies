@@ -2,11 +2,11 @@
   "artist": "September Skies",
   "latestUrl": "latest.json",
   "featuredTrack": {
-    "title": "Serenity",
+    "title": "Give It Away",
     "artist": "September Skies",
     "album": "One Move at a Time",
-    "cover": "https://raw.githubusercontent.com/SteveP999/september-skies/main/images/covers/september-skies-serenity-cover.png",
-    "audioSrc": "https://www.dropbox.com/scl/fo/5larb5l3imxyhvik24epj/ADdjSii9ZoVkV_VpegZGRTA?rlkey=konam20ywtx2zioymx4sxww47&raw=1",
+    "cover": "https://raw.githubusercontent.com/SteveP999/september-skies/main/images/covers/september-skies-give-it-away-cover.png",
+    "audioSrc": "https://www.dropbox.com/scl/fi/i6l30r2si2vgjsk7usyu5/september-skies-give-it-away.mp3?rlkey=0496b3kwnp5hiesyojgykkx0i&raw=1",
     "videos": []
   },
   "tracks": [
@@ -24,6 +24,14 @@
       "album": "One Move at a Time",
       "cover": "https://raw.githubusercontent.com/SteveP999/september-skies/main/images/covers/september-skies-four-seasons-one-heart-cover.png",
       "audioSrc": "https://www.dropbox.com/scl/fi/cxdd9b5g4q4me0u2aw12d/september-skies-four-seasons-one-heart-mp3.mp3?rlkey=dpyb3lxqj5zj4e4fpo12fhviv&raw=1",
+      "videos": []
+    },
+    {
+      "title": "Give It Away",
+      "artist": "September Skies",
+      "album": "One Move at a Time",
+      "cover": "https://raw.githubusercontent.com/SteveP999/september-skies/main/images/covers/september-skies-give-it-away-cover.png",
+      "audioSrc": "https://www.dropbox.com/scl/fi/i6l30r2si2vgjsk7usyu5/september-skies-give-it-away.mp3?rlkey=0496b3kwnp5hiesyojgykkx0i&raw=1",
       "videos": []
     },
     {
@@ -59,11 +67,11 @@
       "videos": []
     },
     {
-      "title": "Serenity",
+      "title": "Serena",
       "artist": "September Skies",
       "album": "One Move at a Time",
-      "cover": "https://raw.githubusercontent.com/SteveP999/september-skies/main/images/covers/september-skies-serenity-cover.png",
-      "audioSrc": "https://www.dropbox.com/scl/fo/5larb5l3imxyhvik24epj/ADdjSii9ZoVkV_VpegZGRTA?rlkey=konam20ywtx2zioymx4sxww47&raw=1",
+      "cover": "https://raw.githubusercontent.com/SteveP999/september-skies/main/images/covers/september-skies-serena-cover.png",
+      "audioSrc": "https://www.dropbox.com/scl/fi/704jbke40c9q3y3jwqn0l/september-skies-serena-mp3.mp3?rlkey=7sh3b38a6zc7r81s1f61ydrne&raw=1",
       "videos": []
     },
     {
