@@ -4,7 +4,7 @@
   "featuredTrack": {
     "title": "New Day",
     "artist": "September Skies",
-    "album": "Singles",
+    "album": "One Move at a Time",
     "cover": "https://raw.githubusercontent.com/SteveP999/september-skies/main/images/covers/september-skies-new-day-cover.png",
     "audioSrc": "https://www.dropbox.com/scl/fi/0s799ba9vjlqpp1oeu9l9/september-skies-new-day-mp3.mp3?rlkey=vvusc5ikwj6x8q13267mthqd1&raw=1",
     "videos": []
@@ -59,6 +59,14 @@
       "videos": []
     },
     {
+      "title": "New Day",
+      "artist": "September Skies",
+      "album": "One Move at a Time",
+      "cover": "https://raw.githubusercontent.com/SteveP999/september-skies/main/images/covers/september-skies-new-day-cover.png",
+      "audioSrc": "https://www.dropbox.com/scl/fi/0s799ba9vjlqpp1oeu9l9/september-skies-new-day-mp3.mp3?rlkey=vvusc5ikwj6x8q13267mthqd1&raw=1",
+      "videos": []
+    },
+    {
       "title": "One Move at a Time",
       "artist": "September Skies",
       "album": "One Move at a Time",
@@ -96,14 +104,6 @@
       "album": "One Move at a Time",
       "cover": "https://raw.githubusercontent.com/SteveP999/september-skies/main/images/covers/september-skies-turn-back-time-cover.png",
       "audioSrc": "https://www.dropbox.com/scl/fi/acgvt3qtfpwabagp3y65f/september-skies-turn-back-time-mp3.mp3?rlkey=kgbjj8nyz75losghc5phbe41y&raw=1",
-      "videos": []
-    },
-    {
-      "title": "New Day",
-      "artist": "September Skies",
-      "album": "Singles",
-      "cover": "https://raw.githubusercontent.com/SteveP999/september-skies/main/images/covers/september-skies-new-day-cover.png",
-      "audioSrc": "https://www.dropbox.com/scl/fi/0s799ba9vjlqpp1oeu9l9/september-skies-new-day-mp3.mp3?rlkey=vvusc5ikwj6x8q13267mthqd1&raw=1",
       "videos": []
     }
   ]
