@@ -2,11 +2,11 @@
   "artist": "September Skies",
   "latestUrl": "latest.json",
   "featuredTrack": {
-    "title": "Give It Away",
+    "title": "New Day",
     "artist": "September Skies",
-    "album": "One Move at a Time",
-    "cover": "https://raw.githubusercontent.com/SteveP999/september-skies/main/images/covers/september-skies-give-it-away-cover.png",
-    "audioSrc": "https://www.dropbox.com/scl/fi/i6l30r2si2vgjsk7usyu5/september-skies-give-it-away.mp3?rlkey=0496b3kwnp5hiesyojgykkx0i&raw=1",
+    "album": "Singles",
+    "cover": "https://raw.githubusercontent.com/SteveP999/september-skies/main/images/covers/september-skies-new-day-cover.png",
+    "audioSrc": "https://www.dropbox.com/scl/fi/0s799ba9vjlqpp1oeu9l9/september-skies-new-day-mp3.mp3?rlkey=vvusc5ikwj6x8q13267mthqd1&raw=1",
     "videos": []
   },
   "tracks": [
@@ -88,6 +88,14 @@
       "album": "One Move at a Time",
       "cover": "https://raw.githubusercontent.com/SteveP999/september-skies/main/images/covers/september-skies-turn-back-time-cover.png",
       "audioSrc": "https://www.dropbox.com/scl/fi/acgvt3qtfpwabagp3y65f/september-skies-turn-back-time-mp3.mp3?rlkey=kgbjj8nyz75losghc5phbe41y&raw=1",
+      "videos": []
+    },
+    {
+      "title": "New Day",
+      "artist": "September Skies",
+      "album": "Singles",
+      "cover": "https://raw.githubusercontent.com/SteveP999/september-skies/main/images/covers/september-skies-new-day-cover.png",
+      "audioSrc": "https://www.dropbox.com/scl/fi/0s799ba9vjlqpp1oeu9l9/september-skies-new-day-mp3.mp3?rlkey=vvusc5ikwj6x8q13267mthqd1&raw=1",
       "videos": []
     }
   ]
