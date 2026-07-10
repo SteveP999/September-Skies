@@ -2,11 +2,11 @@
   "artist": "September Skies",
   "latestUrl": "latest.json",
   "featuredTrack": {
-    "title": "New Day",
+    "title": "Butterflies",
     "artist": "September Skies",
     "album": "One Move at a Time",
-    "cover": "images/covers/september-skies-new-day-cover.png",
-    "audioSrc": "https://www.dropbox.com/scl/fi/0s799ba9vjlqpp1oeu9l9/september-skies-new-day-mp3.mp3?rlkey=vvusc5ikwj6x8q13267mthqd1&raw=1",
+    "cover": "images/covers/september-skies-butterflies-cover.png",
+    "audioSrc": "https://www.dropbox.com/scl/fi/imgcknw22f58jsriv3ba1/september-skies-butterflies-mp3-v1.mp3?rlkey=dzawji8kpydp4iy2fr7sr2saq&st=urom1yl7&raw=1",
     "videos": []
   },
   "tracks": [
@@ -16,6 +16,14 @@
       "album": "One Move at a Time",
       "cover": "images/covers/september-skies-bending-not-breaking-cover.png",
       "audioSrc": "https://www.dropbox.com/scl/fi/ro9nfodo63kytb5fs8q43/september-skies-bending-not-breaking-mp3.mp3?rlkey=6q0vpndzf7qzo8ym50486u798&raw=1",
+      "videos": []
+    },
+    {
+      "title": "Butterflies",
+      "artist": "September Skies",
+      "album": "One Move at a Time",
+      "cover": "images/covers/september-skies-butterflies-cover.png",
+      "audioSrc": "https://www.dropbox.com/scl/fi/imgcknw22f58jsriv3ba1/september-skies-butterflies-mp3-v1.mp3?rlkey=dzawji8kpydp4iy2fr7sr2saq&st=urom1yl7&raw=1",
       "videos": []
     },
     {
