@@ -3,8 +3,8 @@
   "artist": "September Skies",
   "album": "One Move at a Time",
   "type": "Latest Single",
-  "cover": "https://raw.githubusercontent.com/SteveP999/september-skies/main/images/covers/september-skies-new-day-cover.png",
-  "image": "https://raw.githubusercontent.com/SteveP999/september-skies/main/images/covers/september-skies-new-day-cover.png",
+  "cover": "images/covers/september-skies-new-day-cover.png",
+  "image": "images/covers/september-skies-new-day-cover.png",
   "audio": "https://www.dropbox.com/scl/fi/0s799ba9vjlqpp1oeu9l9/september-skies-new-day-mp3.mp3?rlkey=vvusc5ikwj6x8q13267mthqd1&raw=1",
   "audioSrc": "https://www.dropbox.com/scl/fi/0s799ba9vjlqpp1oeu9l9/september-skies-new-day-mp3.mp3?rlkey=vvusc5ikwj6x8q13267mthqd1&raw=1",
   "videos": []
