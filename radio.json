@@ -7,7 +7,18 @@
     "album": "One Move at a Time",
     "cover": "images/covers/september-skies-butterflies-cover.png",
     "audioSrc": "https://www.dropbox.com/scl/fi/imgcknw22f58jsriv3ba1/september-skies-butterflies-mp3-v1.mp3?rlkey=dzawji8kpydp4iy2fr7sr2saq&st=urom1yl7&raw=1",
-    "videos": []
+    "videos": [
+      {
+        "title": "Official Lyric Video",
+        "youtube": "https://youtu.be/SO5dhlgEASw",
+        "order": 1
+      },
+      {
+        "title": "Official Lyric Video",
+        "youtube": "https://youtu.be/SO5dhlgEASw",
+        "order": 2
+      }
+    ]
   },
   "tracks": [
     {
@@ -24,7 +35,18 @@
       "album": "One Move at a Time",
       "cover": "images/covers/september-skies-butterflies-cover.png",
       "audioSrc": "https://www.dropbox.com/scl/fi/imgcknw22f58jsriv3ba1/september-skies-butterflies-mp3-v1.mp3?rlkey=dzawji8kpydp4iy2fr7sr2saq&st=urom1yl7&raw=1",
-      "videos": []
+      "videos": [
+        {
+          "title": "Official Lyric Video",
+          "youtube": "https://youtu.be/SO5dhlgEASw",
+          "order": 1
+        },
+        {
+          "title": "Official Lyric Video",
+          "youtube": "https://youtu.be/SO5dhlgEASw",
+          "order": 2
+        }
+      ]
     },
     {
       "title": "Four Seasons One Heart",
