@@ -1,22 +1,11 @@
 {
-  "title": "Butterflies",
+  "title": "Time to Shine (Once More)",
   "artist": "September Skies",
   "album": "One Move at a Time",
   "type": "Latest Single",
-  "cover": "images/covers/september-skies-butterflies-cover.png",
-  "image": "images/covers/september-skies-butterflies-cover.png",
-  "audio": "https://www.dropbox.com/scl/fi/kiziora8etw8oyhe7hi0s/september-skies-Butterlies-mp3-v4.mp3?rlkey=xpx7hwu2tftda8mccy1brk64k&st=5cxv3p2r&raw=1",
-  "audioSrc": "https://www.dropbox.com/scl/fi/kiziora8etw8oyhe7hi0s/september-skies-Butterlies-mp3-v4.mp3?rlkey=xpx7hwu2tftda8mccy1brk64k&st=5cxv3p2r&raw=1",
-  "videos": [
-    {
-      "title": "Official Lyric Video",
-      "youtube": "https://youtu.be/SO5dhlgEASw",
-      "order": 1
-    },
-    {
-      "title": "Official Lyric Video",
-      "youtube": "https://youtu.be/SO5dhlgEASw",
-      "order": 2
-    }
-  ]
+  "cover": "images/covers/september-skies-time-to-shine-once-more-cover.png",
+  "image": "images/covers/september-skies-time-to-shine-once-more-cover.png",
+  "audio": "https://www.dropbox.com/scl/fi/kvq0evuyowjhjgvpojq5c/september-skies-time-to-shine-once-more-mp3.mp3?rlkey=7l7qac5fa5suo1z3ll58wn64m&raw=1",
+  "audioSrc": "https://www.dropbox.com/scl/fi/kvq0evuyowjhjgvpojq5c/september-skies-time-to-shine-once-more-mp3.mp3?rlkey=7l7qac5fa5suo1z3ll58wn64m&raw=1",
+  "videos": []
 }

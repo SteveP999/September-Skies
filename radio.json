@@ -2,23 +2,12 @@
   "artist": "September Skies",
   "latestUrl": "latest.json",
   "featuredTrack": {
-    "title": "Butterflies",
+    "title": "Time to Shine (Once More)",
     "artist": "September Skies",
     "album": "One Move at a Time",
-    "cover": "images/covers/september-skies-butterflies-cover.png",
-    "audioSrc": "https://www.dropbox.com/scl/fi/kiziora8etw8oyhe7hi0s/september-skies-Butterlies-mp3-v4.mp3?rlkey=xpx7hwu2tftda8mccy1brk64k&st=5cxv3p2r&raw=1",
-    "videos": [
-      {
-        "title": "Official Lyric Video",
-        "youtube": "https://youtu.be/SO5dhlgEASw",
-        "order": 1
-      },
-      {
-        "title": "Official Lyric Video",
-        "youtube": "https://youtu.be/SO5dhlgEASw",
-        "order": 2
-      }
-    ]
+    "cover": "images/covers/september-skies-time-to-shine-once-more-cover.png",
+    "audioSrc": "https://www.dropbox.com/scl/fi/kvq0evuyowjhjgvpojq5c/september-skies-time-to-shine-once-more-mp3.mp3?rlkey=7l7qac5fa5suo1z3ll58wn64m&raw=1",
+    "videos": []
   },
   "tracks": [
     {
@@ -81,6 +70,14 @@
       "videos": []
     },
     {
+      "title": "Love Fills the Air",
+      "artist": "September Skies",
+      "album": "One Move at a Time",
+      "cover": "images/covers/september-skies-love-fills-the-air-cover.png",
+      "audioSrc": "https://www.dropbox.com/scl/fi/xyddgj6f1by8pqorkufmp/september-skies-love-fills-the-air-mp3.mp3?rlkey=odvzth99c7kgrlaxi9215vrs4&raw=1",
+      "videos": []
+    },
+    {
       "title": "Moment to Live",
       "artist": "September Skies",
       "album": "One Move at a Time",
@@ -126,6 +123,14 @@
       "album": "One Move at a Time",
       "cover": "images/covers/september-skies-shine-for-all-time-cover.png",
       "audioSrc": "https://www.dropbox.com/scl/fi/jkukm6o7wy611leuu7xlm/september-skies-shine-for-all-time-mp3.mp3?rlkey=4un7snrpkasg5z1lozmxqi926&raw=1",
+      "videos": []
+    },
+    {
+      "title": "Time to Shine (Once More)",
+      "artist": "September Skies",
+      "album": "One Move at a Time",
+      "cover": "images/covers/september-skies-time-to-shine-once-more-cover.png",
+      "audioSrc": "https://www.dropbox.com/scl/fi/kvq0evuyowjhjgvpojq5c/september-skies-time-to-shine-once-more-mp3.mp3?rlkey=7l7qac5fa5suo1z3ll58wn64m&raw=1",
       "videos": []
     },
     {

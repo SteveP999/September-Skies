@@ -17,7 +17,8 @@
     "includeOnRadio": true,
     "includeOnHomepage": true,
     "explicit": false,
-    "tags": []
+    "tags": [],
+    "streaming": {}
   },
   {
     "id": "september-skies-butterflies",
@@ -29,7 +30,7 @@
     "albumOrder": 2,
     "albumCover": "images/covers/september-skies-one-move-at-a-time-ALBUM-cover.png",
     "type": "single",
-    "isLatest": true,
+    "isLatest": false,
     "cover": "images/covers/september-skies-butterflies-cover.png",
     "audio": "https://www.dropbox.com/scl/fi/kiziora8etw8oyhe7hi0s/september-skies-Butterlies-mp3-v4.mp3?rlkey=xpx7hwu2tftda8mccy1brk64k&st=5cxv3p2r&raw=1",
     "audioSrc": "https://www.dropbox.com/scl/fi/kiziora8etw8oyhe7hi0s/september-skies-Butterlies-mp3-v4.mp3?rlkey=xpx7hwu2tftda8mccy1brk64k&st=5cxv3p2r&raw=1",
@@ -48,7 +49,11 @@
     "includeOnRadio": true,
     "includeOnHomepage": true,
     "explicit": false,
-    "tags": []
+    "tags": [],
+    "streaming": {
+      "spotify": "https://open.spotify.com/album/5ljPMjku5FrUwQdlCKSN7J?si=-gEX_u0MShaqPHVQYHqXaA",
+      "apple": "https://music.apple.com/us/song/butterflies/6790696104"
+    }
   },
   {
     "id": "september-skies-four-seasons-one-heart",
@@ -68,7 +73,8 @@
     "includeOnRadio": true,
     "includeOnHomepage": true,
     "explicit": false,
-    "tags": []
+    "tags": [],
+    "streaming": {}
   },
   {
     "id": "september-skies-give-it-away",
@@ -88,7 +94,8 @@
     "includeOnRadio": true,
     "includeOnHomepage": true,
     "explicit": false,
-    "tags": []
+    "tags": [],
+    "streaming": {}
   },
   {
     "id": "september-skies-lead-me-safely-home",
@@ -108,7 +115,8 @@
     "includeOnRadio": true,
     "includeOnHomepage": false,
     "explicit": false,
-    "tags": []
+    "tags": [],
+    "streaming": {}
   },
   {
     "id": "september-skies-life-in-the-light",
@@ -128,16 +136,38 @@
     "includeOnRadio": true,
     "includeOnHomepage": true,
     "explicit": false,
-    "tags": []
+    "tags": [],
+    "streaming": {}
   },
   {
-    "id": "september-skies-moment-to-live",
+    "id": "september-skies-love-fills-the-air",
     "num": "07",
-    "title": "Moment to Live",
+    "title": "Love Fills the Air",
     "artist": "September Skies",
     "album": "One Move at a Time",
     "trackNumber": 7,
     "albumOrder": 7,
+    "albumCover": "images/covers/september-skies-one-move-at-a-time-ALBUM-cover.png",
+    "type": "single",
+    "isLatest": false,
+    "cover": "images/covers/september-skies-love-fills-the-air-cover.png",
+    "audio": "https://www.dropbox.com/scl/fi/xyddgj6f1by8pqorkufmp/september-skies-love-fills-the-air-mp3.mp3?rlkey=odvzth99c7kgrlaxi9215vrs4&raw=1",
+    "audioSrc": "https://www.dropbox.com/scl/fi/xyddgj6f1by8pqorkufmp/september-skies-love-fills-the-air-mp3.mp3?rlkey=odvzth99c7kgrlaxi9215vrs4&raw=1",
+    "videos": [],
+    "includeOnRadio": true,
+    "includeOnHomepage": true,
+    "explicit": false,
+    "tags": [],
+    "streaming": {}
+  },
+  {
+    "id": "september-skies-moment-to-live",
+    "num": "08",
+    "title": "Moment to Live",
+    "artist": "September Skies",
+    "album": "One Move at a Time",
+    "trackNumber": 8,
+    "albumOrder": 8,
     "albumCover": "images/covers/september-skies-one-move-at-a-time-ALBUM-cover.png",
     "type": "single",
     "isLatest": false,
@@ -148,16 +178,17 @@
     "includeOnRadio": true,
     "includeOnHomepage": true,
     "explicit": false,
-    "tags": []
+    "tags": [],
+    "streaming": {}
   },
   {
     "id": "september-skies-new-day",
-    "num": "08",
+    "num": "09",
     "title": "New Day",
     "artist": "September Skies",
     "album": "One Move at a Time",
-    "trackNumber": 8,
-    "albumOrder": 8,
+    "trackNumber": 9,
+    "albumOrder": 9,
     "albumCover": "images/covers/september-skies-one-move-at-a-time-ALBUM-cover.png",
     "type": "album track",
     "isLatest": false,
@@ -168,16 +199,17 @@
     "includeOnRadio": true,
     "includeOnHomepage": true,
     "explicit": false,
-    "tags": []
+    "tags": [],
+    "streaming": {}
   },
   {
     "id": "september-skies-one-move-at-a-time",
-    "num": "09",
+    "num": "10",
     "title": "One Move at a Time",
     "artist": "September Skies",
     "album": "One Move at a Time",
-    "trackNumber": 9,
-    "albumOrder": 9,
+    "trackNumber": 10,
+    "albumOrder": 10,
     "albumCover": "images/covers/september-skies-one-move-at-a-time-ALBUM-cover.png",
     "type": "single",
     "isLatest": false,
@@ -188,16 +220,17 @@
     "includeOnRadio": true,
     "includeOnHomepage": true,
     "explicit": false,
-    "tags": []
+    "tags": [],
+    "streaming": {}
   },
   {
     "id": "september-skies-perfectly-imperfect",
-    "num": "10",
+    "num": "11",
     "title": "Perfectly Imperfect",
     "artist": "September Skies",
     "album": "One Move at a Time",
-    "trackNumber": 10,
-    "albumOrder": 10,
+    "trackNumber": 11,
+    "albumOrder": 11,
     "albumCover": "images/covers/september-skies-one-move-at-a-time-ALBUM-cover.png",
     "type": "single",
     "isLatest": false,
@@ -208,16 +241,17 @@
     "includeOnRadio": true,
     "includeOnHomepage": true,
     "explicit": false,
-    "tags": []
+    "tags": [],
+    "streaming": {}
   },
   {
     "id": "september-skies-serena",
-    "num": "11",
+    "num": "12",
     "title": "Serena",
     "artist": "September Skies",
     "album": "One Move at a Time",
-    "trackNumber": 11,
-    "albumOrder": 11,
+    "trackNumber": 12,
+    "albumOrder": 12,
     "albumCover": "images/covers/september-skies-one-move-at-a-time-ALBUM-cover.png",
     "type": "single",
     "isLatest": false,
@@ -228,16 +262,17 @@
     "includeOnRadio": true,
     "includeOnHomepage": true,
     "explicit": false,
-    "tags": []
+    "tags": [],
+    "streaming": {}
   },
   {
     "id": "september-skies-shine-for-all-time",
-    "num": "12",
+    "num": "13",
     "title": "Shine For All Time",
     "artist": "September Skies",
     "album": "One Move at a Time",
-    "trackNumber": 12,
-    "albumOrder": 12,
+    "trackNumber": 13,
+    "albumOrder": 13,
     "albumCover": "images/covers/september-skies-one-move-at-a-time-ALBUM-cover.png",
     "type": "single",
     "isLatest": false,
@@ -248,16 +283,38 @@
     "includeOnRadio": true,
     "includeOnHomepage": true,
     "explicit": false,
-    "tags": []
+    "tags": [],
+    "streaming": {}
+  },
+  {
+    "id": "september-skies-time-to-shine-once-more",
+    "num": "14",
+    "title": "Time to Shine (Once More)",
+    "artist": "September Skies",
+    "album": "One Move at a Time",
+    "trackNumber": 14,
+    "albumOrder": 14,
+    "albumCover": "images/covers/september-skies-one-move-at-a-time-ALBUM-cover.png",
+    "type": "single",
+    "isLatest": true,
+    "cover": "images/covers/september-skies-time-to-shine-once-more-cover.png",
+    "audio": "https://www.dropbox.com/scl/fi/kvq0evuyowjhjgvpojq5c/september-skies-time-to-shine-once-more-mp3.mp3?rlkey=7l7qac5fa5suo1z3ll58wn64m&raw=1",
+    "audioSrc": "https://www.dropbox.com/scl/fi/kvq0evuyowjhjgvpojq5c/september-skies-time-to-shine-once-more-mp3.mp3?rlkey=7l7qac5fa5suo1z3ll58wn64m&raw=1",
+    "videos": [],
+    "includeOnRadio": true,
+    "includeOnHomepage": true,
+    "explicit": false,
+    "tags": [],
+    "streaming": {}
   },
   {
     "id": "september-skies-turn-back-time",
-    "num": "13",
+    "num": "15",
     "title": "Turn Back Time",
     "artist": "September Skies",
     "album": "One Move at a Time",
-    "trackNumber": 13,
-    "albumOrder": 13,
+    "trackNumber": 15,
+    "albumOrder": 15,
     "albumCover": "images/covers/september-skies-one-move-at-a-time-ALBUM-cover.png",
     "type": "album track",
     "isLatest": false,
@@ -268,6 +325,7 @@
     "includeOnRadio": true,
     "includeOnHomepage": false,
     "explicit": false,
-    "tags": []
+    "tags": [],
+    "streaming": {}
   }
 ]
