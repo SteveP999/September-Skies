@@ -2,11 +2,11 @@
   "artist": "September Skies",
   "latestUrl": "latest.json",
   "featuredTrack": {
-    "title": "Time to Shine (Once More)",
+    "title": "Serena (Acoustic)",
     "artist": "September Skies",
     "album": "One Move at a Time",
-    "cover": "images/covers/september-skies-time-to-shine-once-more-cover.png",
-    "audioSrc": "https://www.dropbox.com/scl/fi/kvq0evuyowjhjgvpojq5c/september-skies-time-to-shine-once-more-mp3.mp3?rlkey=7l7qac5fa5suo1z3ll58wn64m&raw=1",
+    "cover": "images/covers/september-skies-serena-acoustic-cover.png",
+    "audioSrc": "https://www.dropbox.com/scl/fi/b8rxxj9fw58dita1bgk4k/september-skies-serena-acoustic-MP3.mp3?rlkey=fe9wvrh0lswvegqsse0lr6t5z&st=mlcu7h5d&raw=1",
     "videos": []
   },
   "tracks": [
@@ -115,6 +115,14 @@
       "album": "One Move at a Time",
       "cover": "images/covers/september-skies-serena-cover.png",
       "audioSrc": "https://www.dropbox.com/scl/fi/704jbke40c9q3y3jwqn0l/september-skies-serena-mp3.mp3?rlkey=7sh3b38a6zc7r81s1f61ydrne&raw=1",
+      "videos": []
+    },
+    {
+      "title": "Serena (Acoustic)",
+      "artist": "September Skies",
+      "album": "One Move at a Time",
+      "cover": "images/covers/september-skies-serena-acoustic-cover.png",
+      "audioSrc": "https://www.dropbox.com/scl/fi/b8rxxj9fw58dita1bgk4k/september-skies-serena-acoustic-MP3.mp3?rlkey=fe9wvrh0lswvegqsse0lr6t5z&st=mlcu7h5d&raw=1",
       "videos": []
     },
     {
