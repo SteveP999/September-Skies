@@ -2,11 +2,11 @@
   "artist": "September Skies",
   "latestUrl": "latest.json",
   "featuredTrack": {
-    "title": "Serena (Acoustic)",
+    "title": "Get Up and Go",
     "artist": "September Skies",
     "album": "One Move at a Time",
-    "cover": "images/covers/september-skies-serena-acoustic-cover.png",
-    "audioSrc": "https://www.dropbox.com/scl/fi/b8rxxj9fw58dita1bgk4k/september-skies-serena-acoustic-MP3.mp3?rlkey=fe9wvrh0lswvegqsse0lr6t5z&st=mlcu7h5d&raw=1",
+    "cover": "images/covers/september-skies-get-up-and-go-cover.png",
+    "audioSrc": "https://www.dropbox.com/scl/fi/93cyyt27c9d58wyvtyjue/september-skies-get-up-and-go-mp3.mp3?rlkey=tsn4ft6qo1w2vihva7cneplvp&st=2ks7b5z6&raw=1",
     "videos": []
   },
   "tracks": [
@@ -43,6 +43,14 @@
       "album": "One Move at a Time",
       "cover": "images/covers/september-skies-four-seasons-one-heart-cover.png",
       "audioSrc": "https://www.dropbox.com/scl/fi/cxdd9b5g4q4me0u2aw12d/september-skies-four-seasons-one-heart-mp3.mp3?rlkey=dpyb3lxqj5zj4e4fpo12fhviv&raw=1",
+      "videos": []
+    },
+    {
+      "title": "Get Up and Go",
+      "artist": "September Skies",
+      "album": "One Move at a Time",
+      "cover": "images/covers/september-skies-get-up-and-go-cover.png",
+      "audioSrc": "https://www.dropbox.com/scl/fi/93cyyt27c9d58wyvtyjue/september-skies-get-up-and-go-mp3.mp3?rlkey=tsn4ft6qo1w2vihva7cneplvp&st=2ks7b5z6&raw=1",
       "videos": []
     },
     {
