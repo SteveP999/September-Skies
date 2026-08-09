@@ -2,11 +2,11 @@
   "artist": "September Skies",
   "latestUrl": "latest.json",
   "featuredTrack": {
-    "title": "Get Up and Go",
+    "title": "Turn Around",
     "artist": "September Skies",
     "album": "One Move at a Time",
-    "cover": "images/covers/september-skies-get-up-and-go-cover.png",
-    "audioSrc": "https://www.dropbox.com/scl/fi/93cyyt27c9d58wyvtyjue/september-skies-get-up-and-go-mp3.mp3?rlkey=tsn4ft6qo1w2vihva7cneplvp&st=2ks7b5z6&raw=1",
+    "cover": "images/covers/september-skies-turn-around-cover.png",
+    "audioSrc": "https://www.dropbox.com/scl/fi/nw9cburbszymxek1q5um7/Turn-Around-by-September-Skies.mp3?rlkey=rgln7ujq2cvj9a1ethrcwn4fj&raw=1",
     "videos": []
   },
   "tracks": [
@@ -147,6 +147,14 @@
       "album": "One Move at a Time",
       "cover": "images/covers/september-skies-time-to-shine-once-more-cover.png",
       "audioSrc": "https://www.dropbox.com/scl/fi/kvq0evuyowjhjgvpojq5c/september-skies-time-to-shine-once-more-mp3.mp3?rlkey=7l7qac5fa5suo1z3ll58wn64m&raw=1",
+      "videos": []
+    },
+    {
+      "title": "Turn Around",
+      "artist": "September Skies",
+      "album": "One Move at a Time",
+      "cover": "images/covers/september-skies-turn-around-cover.png",
+      "audioSrc": "https://www.dropbox.com/scl/fi/nw9cburbszymxek1q5um7/Turn-Around-by-September-Skies.mp3?rlkey=rgln7ujq2cvj9a1ethrcwn4fj&raw=1",
       "videos": []
     },
     {
