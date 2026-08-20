@@ -2,11 +2,11 @@
   "artist": "September Skies",
   "latestUrl": "latest.json",
   "featuredTrack": {
-    "title": "Turn Around",
+    "title": "Open Souls",
     "artist": "September Skies",
     "album": "One Move at a Time",
-    "cover": "images/covers/september-skies-turn-around-cover.png",
-    "audioSrc": "https://www.dropbox.com/scl/fi/nw9cburbszymxek1q5um7/Turn-Around-by-September-Skies.mp3?rlkey=rgln7ujq2cvj9a1ethrcwn4fj&raw=1",
+    "cover": "images/covers/september-skies-open-souls-cover.png",
+    "audioSrc": "https://www.dropbox.com/scl/fi/fe56oncfhd9w4so3quylb/september-skies-open-souls-mp3.mp3?rlkey=yg3o4h28cxz0lvuq145z0o8bz&raw=1",
     "videos": []
   },
   "tracks": [
@@ -107,6 +107,14 @@
       "album": "One Move at a Time",
       "cover": "images/covers/september-skies-one-move-at-a-time-cover.png",
       "audioSrc": "https://www.dropbox.com/scl/fi/d1e4kiyy4xme7g4656jrt/one-move-at-a-time-live-premier.mp3?rlkey=6acr74q1omxqu2h9kze6xr0h0&raw=1",
+      "videos": []
+    },
+    {
+      "title": "Open Souls",
+      "artist": "September Skies",
+      "album": "One Move at a Time",
+      "cover": "images/covers/september-skies-open-souls-cover.png",
+      "audioSrc": "https://www.dropbox.com/scl/fi/fe56oncfhd9w4so3quylb/september-skies-open-souls-mp3.mp3?rlkey=yg3o4h28cxz0lvuq145z0o8bz&raw=1",
       "videos": []
     },
     {
