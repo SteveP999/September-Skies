@@ -2,11 +2,11 @@
   "artist": "September Skies",
   "latestUrl": "latest.json",
   "featuredTrack": {
-    "title": "Open Souls",
+    "title": "Carry Us All",
     "artist": "September Skies",
     "album": "One Move at a Time",
-    "cover": "images/covers/september-skies-open-souls-cover.png",
-    "audioSrc": "https://www.dropbox.com/scl/fi/fe56oncfhd9w4so3quylb/september-skies-open-souls-mp3.mp3?rlkey=yg3o4h28cxz0lvuq145z0o8bz&raw=1",
+    "cover": "images/covers/september-skies-carry-us-all-cover.png",
+    "audioSrc": "https://www.dropbox.com/scl/fi/ebukfwu33czjwe6iz9c9i/september-skies-carry-us-all-mp3.mp3?rlkey=xsb87txnxu8kf7zspt5dd9apt&raw=1",
     "videos": []
   },
   "tracks": [
@@ -36,6 +36,14 @@
           "order": 2
         }
       ]
+    },
+    {
+      "title": "Carry Us All",
+      "artist": "September Skies",
+      "album": "One Move at a Time",
+      "cover": "images/covers/september-skies-carry-us-all-cover.png",
+      "audioSrc": "https://www.dropbox.com/scl/fi/ebukfwu33czjwe6iz9c9i/september-skies-carry-us-all-mp3.mp3?rlkey=xsb87txnxu8kf7zspt5dd9apt&raw=1",
+      "videos": []
     },
     {
       "title": "Four Seasons One Heart",
