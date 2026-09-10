@@ -15,7 +15,7 @@
     "audioSrc": "https://www.dropbox.com/scl/fi/ro9nfodo63kytb5fs8q43/september-skies-bending-not-breaking-mp3.mp3?rlkey=6q0vpndzf7qzo8ym50486u798&raw=1",
     "videos": [],
     "includeOnRadio": true,
-    "includeOnHomepage": true,
+    "includeOnHomepage": false,
     "explicit": false,
     "tags": [],
     "streaming": {}
@@ -42,7 +42,7 @@
       }
     ],
     "includeOnRadio": true,
-    "includeOnHomepage": true,
+    "includeOnHomepage": false,
     "explicit": false,
     "tags": [],
     "streaming": {
@@ -66,7 +66,7 @@
     "audioSrc": "https://www.dropbox.com/scl/fi/ebukfwu33czjwe6iz9c9i/september-skies-carry-us-all-mp3.mp3?rlkey=xsb87txnxu8kf7zspt5dd9apt&raw=1",
     "videos": [],
     "includeOnRadio": true,
-    "includeOnHomepage": true,
+    "includeOnHomepage": false,
     "explicit": false,
     "tags": [],
     "streaming": {}
@@ -87,7 +87,7 @@
     "audioSrc": "https://www.dropbox.com/scl/fi/cxdd9b5g4q4me0u2aw12d/september-skies-four-seasons-one-heart-mp3.mp3?rlkey=dpyb3lxqj5zj4e4fpo12fhviv&raw=1",
     "videos": [],
     "includeOnRadio": true,
-    "includeOnHomepage": true,
+    "includeOnHomepage": false,
     "explicit": false,
     "tags": [],
     "streaming": {}
@@ -108,7 +108,7 @@
     "audioSrc": "https://www.dropbox.com/scl/fi/93cyyt27c9d58wyvtyjue/september-skies-get-up-and-go-mp3.mp3?rlkey=tsn4ft6qo1w2vihva7cneplvp&st=2ks7b5z6&raw=1",
     "videos": [],
     "includeOnRadio": true,
-    "includeOnHomepage": true,
+    "includeOnHomepage": false,
     "explicit": false,
     "tags": [],
     "streaming": {}
@@ -129,7 +129,7 @@
     "audioSrc": "https://www.dropbox.com/scl/fi/i6l30r2si2vgjsk7usyu5/september-skies-give-it-away.mp3?rlkey=0496b3kwnp5hiesyojgykkx0i&raw=1",
     "videos": [],
     "includeOnRadio": true,
-    "includeOnHomepage": true,
+    "includeOnHomepage": false,
     "explicit": false,
     "tags": [],
     "streaming": {}
@@ -171,7 +171,7 @@
     "audioSrc": "https://www.dropbox.com/scl/fi/gmsamup3bfiiwb0libxop/september-skies-life-in-the-light-mp3.mp3?rlkey=mhxx75x2xqf5k5esdt6joqstt&raw=1",
     "videos": [],
     "includeOnRadio": true,
-    "includeOnHomepage": true,
+    "includeOnHomepage": false,
     "explicit": false,
     "tags": [],
     "streaming": {}
@@ -192,7 +192,7 @@
     "audioSrc": "https://www.dropbox.com/scl/fi/xyddgj6f1by8pqorkufmp/september-skies-love-fills-the-air-mp3.mp3?rlkey=odvzth99c7kgrlaxi9215vrs4&raw=1",
     "videos": [],
     "includeOnRadio": true,
-    "includeOnHomepage": true,
+    "includeOnHomepage": false,
     "explicit": false,
     "tags": [],
     "streaming": {}
@@ -213,7 +213,7 @@
     "audioSrc": "https://www.dropbox.com/scl/fi/b0gq0xfl1tzelkwztw8s8/september-skies-moment-to-live.mp3?rlkey=lgry7yd1dcy4pj765j2h12k84&raw=1",
     "videos": [],
     "includeOnRadio": true,
-    "includeOnHomepage": true,
+    "includeOnHomepage": false,
     "explicit": false,
     "tags": [],
     "streaming": {}
@@ -234,7 +234,7 @@
     "audioSrc": "https://www.dropbox.com/scl/fi/0s799ba9vjlqpp1oeu9l9/september-skies-new-day-mp3.mp3?rlkey=vvusc5ikwj6x8q13267mthqd1&raw=1",
     "videos": [],
     "includeOnRadio": true,
-    "includeOnHomepage": true,
+    "includeOnHomepage": false,
     "explicit": false,
     "tags": [],
     "streaming": {}
@@ -255,7 +255,7 @@
     "audioSrc": "https://www.dropbox.com/scl/fi/d1e4kiyy4xme7g4656jrt/one-move-at-a-time-live-premier.mp3?rlkey=6acr74q1omxqu2h9kze6xr0h0&raw=1",
     "videos": [],
     "includeOnRadio": true,
-    "includeOnHomepage": true,
+    "includeOnHomepage": false,
     "explicit": false,
     "tags": [],
     "streaming": {}
@@ -276,7 +276,7 @@
     "audioSrc": "https://www.dropbox.com/scl/fi/fe56oncfhd9w4so3quylb/september-skies-open-souls-mp3.mp3?rlkey=yg3o4h28cxz0lvuq145z0o8bz&raw=1",
     "videos": [],
     "includeOnRadio": true,
-    "includeOnHomepage": true,
+    "includeOnHomepage": false,
     "explicit": false,
     "tags": [],
     "streaming": {}
@@ -297,7 +297,7 @@
     "audioSrc": "https://www.dropbox.com/scl/fi/lg6e6m5qbxuuh41uuggww/silent-oblivion-perfectly-imperfect.mp3.mp3?rlkey=eja1hfky1z793h9jtstd271bj&raw=1",
     "videos": [],
     "includeOnRadio": true,
-    "includeOnHomepage": true,
+    "includeOnHomepage": false,
     "explicit": false,
     "tags": [],
     "streaming": {}
@@ -318,7 +318,7 @@
     "audioSrc": "https://www.dropbox.com/scl/fi/704jbke40c9q3y3jwqn0l/september-skies-serena-mp3.mp3?rlkey=7sh3b38a6zc7r81s1f61ydrne&raw=1",
     "videos": [],
     "includeOnRadio": true,
-    "includeOnHomepage": true,
+    "includeOnHomepage": false,
     "explicit": false,
     "tags": [],
     "streaming": {}
@@ -339,7 +339,7 @@
     "audioSrc": "https://www.dropbox.com/scl/fi/b8rxxj9fw58dita1bgk4k/september-skies-serena-acoustic-MP3.mp3?rlkey=fe9wvrh0lswvegqsse0lr6t5z&st=mlcu7h5d&raw=1",
     "videos": [],
     "includeOnRadio": true,
-    "includeOnHomepage": true,
+    "includeOnHomepage": false,
     "explicit": false,
     "tags": [],
     "streaming": {}
@@ -381,7 +381,7 @@
     "audioSrc": "https://www.dropbox.com/scl/fi/jkukm6o7wy611leuu7xlm/september-skies-shine-for-all-time-mp3.mp3?rlkey=4un7snrpkasg5z1lozmxqi926&raw=1",
     "videos": [],
     "includeOnRadio": true,
-    "includeOnHomepage": true,
+    "includeOnHomepage": false,
     "explicit": false,
     "tags": [],
     "streaming": {}
@@ -402,7 +402,7 @@
     "audioSrc": "https://www.dropbox.com/scl/fi/kvq0evuyowjhjgvpojq5c/september-skies-time-to-shine-once-more-mp3.mp3?rlkey=7l7qac5fa5suo1z3ll58wn64m&raw=1",
     "videos": [],
     "includeOnRadio": true,
-    "includeOnHomepage": true,
+    "includeOnHomepage": false,
     "explicit": false,
     "tags": [],
     "streaming": {}
@@ -423,7 +423,7 @@
     "audioSrc": "https://www.dropbox.com/scl/fi/nw9cburbszymxek1q5um7/Turn-Around-by-September-Skies.mp3?rlkey=rgln7ujq2cvj9a1ethrcwn4fj&raw=1",
     "videos": [],
     "includeOnRadio": true,
-    "includeOnHomepage": true,
+    "includeOnHomepage": false,
     "explicit": false,
     "tags": [],
     "streaming": {}
@@ -480,13 +480,13 @@
     "albumOrder": 23,
     "albumCover": "images/covers/september-skies-one-move-at-a-time-ALBUM-cover.png",
     "type": "single",
-    "isLatest": true,
+    "isLatest": false,
     "cover": "images/covers/september-skies-fly-little-bird-cover.png",
     "audio": "https://www.dropbox.com/scl/fi/s91hsepg53c536mis9j2s/september-skies-fly-little-bird-mp3.mp3?rlkey=q78gyl7vl200xuvw1hbf8wx7i&raw=1",
     "audioSrc": "https://www.dropbox.com/scl/fi/s91hsepg53c536mis9j2s/september-skies-fly-little-bird-mp3.mp3?rlkey=q78gyl7vl200xuvw1hbf8wx7i&raw=1",
     "videos": [],
     "includeOnRadio": true,
-    "includeOnHomepage": true,
+    "includeOnHomepage": false,
     "explicit": false,
     "tags": [],
     "streaming": {
@@ -494,5 +494,26 @@
       "apple": "",
       "youtubeMusic": ""
     }
+  },
+  {
+    "id": "september-skies-love-is-the-way",
+    "num": "01",
+    "title": "Love Is the Way",
+    "artist": "September Skies",
+    "album": "One Move at a Time",
+    "trackNumber": 99,
+    "albumOrder": 99,
+    "albumCover": "",
+    "type": "single",
+    "isLatest": true,
+    "cover": "images/covers/september-skies-love-is-the-way-cover.png",
+    "audio": "https://www.dropbox.com/scl/fi/qesdxj1nlwiqu8at5xivy/september-skies-love-is-the-way-MP3.mp3?rlkey=xuxawj71t3g4pskwk1paa25iy&st=ccnsivnj&raw=1",
+    "audioSrc": "https://www.dropbox.com/scl/fi/qesdxj1nlwiqu8at5xivy/september-skies-love-is-the-way-MP3.mp3?rlkey=xuxawj71t3g4pskwk1paa25iy&st=ccnsivnj&raw=1",
+    "videos": [],
+    "includeOnRadio": true,
+    "includeOnHomepage": true,
+    "explicit": false,
+    "tags": [],
+    "streaming": {}
   }
 ]
