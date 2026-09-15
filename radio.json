@@ -2,11 +2,11 @@
   "artist": "September Skies",
   "latestUrl": "latest.json",
   "featuredTrack": {
-    "title": "Carry Us All",
+    "title": "Bending Not Breaking",
     "artist": "September Skies",
     "album": "One Move at a Time",
-    "cover": "images/covers/september-skies-carry-us-all-cover.png",
-    "audioSrc": "https://www.dropbox.com/scl/fi/ebukfwu33czjwe6iz9c9i/september-skies-carry-us-all-mp3.mp3?rlkey=xsb87txnxu8kf7zspt5dd9apt&raw=1",
+    "cover": "images/covers/september-skies-bending-not-breaking-cover.png",
+    "audioSrc": "https://www.dropbox.com/scl/fi/ro9nfodo63kytb5fs8q43/september-skies-bending-not-breaking-mp3.mp3?rlkey=6q0vpndzf7qzo8ym50486u798&raw=1",
     "videos": []
   },
   "tracks": [
@@ -182,6 +182,14 @@
       "album": "One Move at a Time",
       "cover": "images/covers/september-skies-fly-little-bird-cover.png",
       "audioSrc": "https://www.dropbox.com/scl/fi/s91hsepg53c536mis9j2s/september-skies-fly-little-bird-mp3.mp3?rlkey=q78gyl7vl200xuvw1hbf8wx7i&raw=1",
+      "videos": []
+    },
+    {
+      "title": "Love Is the Way",
+      "artist": "September Skies",
+      "album": "One Move at a Time",
+      "cover": "images/covers/september-skies-love-is-the-way-cover.png",
+      "audioSrc": "https://www.dropbox.com/scl/fi/qesdxj1nlwiqu8at5xivy/september-skies-love-is-the-way-MP3.mp3?rlkey=xuxawj71t3g4pskwk1paa25iy&st=oy03nk8l&raw=1",
       "videos": []
     }
   ]
