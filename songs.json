@@ -18,7 +18,11 @@
     "includeOnHomepage": false,
     "explicit": false,
     "tags": [],
-    "streaming": {}
+    "streaming": {
+      "spotify": "",
+      "apple": "",
+      "youtubeMusic": ""
+    }
   },
   {
     "id": "september-skies-butterflies",
@@ -36,7 +40,7 @@
     "audioSrc": "https://www.dropbox.com/scl/fi/kiziora8etw8oyhe7hi0s/september-skies-Butterlies-mp3-v4.mp3?rlkey=xpx7hwu2tftda8mccy1brk64k&st=5cxv3p2r&raw=1",
     "videos": [
       {
-        "youtube": "https://youtu.be/SO5dhlgEASw",
+        "youtube": "https://youtu.be/SO5dhlgEASw?si=rvDpo63ngx6qaOZf",
         "title": "Official Video",
         "order": 1
       }
@@ -47,7 +51,8 @@
     "tags": [],
     "streaming": {
       "spotify": "https://open.spotify.com/album/5ljPMjku5FrUwQdlCKSN7J?si=-gEX_u0MShaqPHVQYHqXaA",
-      "apple": "https://music.apple.com/us/song/butterflies/6790696104"
+      "apple": "https://music.apple.com/us/song/butterflies/6790696104",
+      "youtubeMusic": ""
     }
   },
   {
@@ -178,7 +183,11 @@
     "includeOnHomepage": false,
     "explicit": false,
     "tags": [],
-    "streaming": {}
+    "streaming": {
+      "spotify": "",
+      "apple": "",
+      "youtubeMusic": ""
+    }
   },
   {
     "id": "september-skies-love-fills-the-air",
@@ -261,12 +270,22 @@
     "cover": "images/covers/september-skies-one-move-at-a-time-cover.png",
     "audio": "https://www.dropbox.com/scl/fi/d1e4kiyy4xme7g4656jrt/one-move-at-a-time-live-premier.mp3?rlkey=6acr74q1omxqu2h9kze6xr0h0&raw=1",
     "audioSrc": "https://www.dropbox.com/scl/fi/d1e4kiyy4xme7g4656jrt/one-move-at-a-time-live-premier.mp3?rlkey=6acr74q1omxqu2h9kze6xr0h0&raw=1",
-    "videos": [],
+    "videos": [
+      {
+        "youtube": "https://youtu.be/K3Odh6UPGf4?si=shCYeARlfW0IFkJ6",
+        "title": "Official Video",
+        "order": 1
+      }
+    ],
     "includeOnRadio": true,
     "includeOnHomepage": false,
     "explicit": false,
     "tags": [],
-    "streaming": {}
+    "streaming": {
+      "spotify": "",
+      "apple": "",
+      "youtubeMusic": ""
+    }
   },
   {
     "id": "september-skies-open-souls",
@@ -350,7 +369,11 @@
     "includeOnHomepage": false,
     "explicit": false,
     "tags": [],
-    "streaming": {}
+    "streaming": {
+      "spotify": "",
+      "apple": "",
+      "youtubeMusic": ""
+    }
   },
   {
     "id": "september-skies-serenity",
@@ -468,9 +491,9 @@
     "albumCover": "images/covers/september-skies-one-move-at-a-time-ALBUM-cover.png",
     "type": "single",
     "isLatest": false,
-    "cover": "",
-    "audio": "",
-    "audioSrc": "",
+    "cover": "images/covers/september-skies-minutes-at-a-time-cover.png",
+    "audio": "https://www.dropbox.com/scl/fi/s0815wt1wrehoxaiofaj9/Minutes-at-a-Time-by-September-Skies.mp3?rlkey=jbxkqi2hy65tjugnlnrqpegu6&st=afvbhbjm&raw=1",
+    "audioSrc": "https://www.dropbox.com/scl/fi/s0815wt1wrehoxaiofaj9/Minutes-at-a-Time-by-September-Skies.mp3?rlkey=jbxkqi2hy65tjugnlnrqpegu6&st=afvbhbjm&raw=1",
     "videos": [],
     "includeOnRadio": true,
     "includeOnHomepage": false,
@@ -488,7 +511,7 @@
     "title": "Fly Little Bird",
     "artist": "September Skies",
     "album": "One Move at a Time",
-    "trackNumber": 23,
+    "trackNumber": 22,
     "albumOrder": 23,
     "albumCover": "images/covers/september-skies-one-move-at-a-time-ALBUM-cover.png",
     "type": "single",
@@ -513,8 +536,8 @@
     "title": "Love Is the Way",
     "artist": "September Skies",
     "album": "One Move at a Time",
-    "trackNumber": 24,
-    "albumOrder": 24,
+    "trackNumber": 23,
+    "albumOrder": 23,
     "albumCover": "images/covers/september-skies-one-move-at-a-time-ALBUM-cover.png",
     "type": "single",
     "isLatest": false,
@@ -526,17 +549,21 @@
     "includeOnHomepage": false,
     "explicit": false,
     "tags": [],
-    "streaming": {}
+    "streaming": {
+      "spotify": "",
+      "apple": "",
+      "youtubeMusic": ""
+    }
   },
   {
     "id": "september-skies-birthday-blues-no-more",
-    "num": "01",
+    "num": "25",
     "title": "Birthday Blues No More",
     "artist": "September Skies",
     "album": "One Move at a Time",
-    "trackNumber": 99,
-    "albumOrder": 99,
-    "albumCover": "",
+    "trackNumber": 25,
+    "albumOrder": 25,
+    "albumCover": "images/covers/september-skies-one-move-at-a-time-ALBUM-cover.png",
     "type": "single",
     "isLatest": false,
     "cover": "images/covers/september-skies-birthday-blues-no-more-cover.png",
@@ -547,17 +574,21 @@
     "includeOnHomepage": false,
     "explicit": false,
     "tags": [],
-    "streaming": {}
+    "streaming": {
+      "spotify": "",
+      "apple": "",
+      "youtubeMusic": ""
+    }
   },
   {
     "id": "september-skies-blending-hearts",
-    "num": "01",
+    "num": "26",
     "title": "Blending Hearts",
     "artist": "September Skies",
     "album": "One Move at a Time",
-    "trackNumber": 99,
-    "albumOrder": 99,
-    "albumCover": "",
+    "trackNumber": 26,
+    "albumOrder": 26,
+    "albumCover": "images/covers/september-skies-one-move-at-a-time-ALBUM-cover.png",
     "type": "single",
     "isLatest": false,
     "cover": "images/covers/september-skies-blending-hearts-cover.png",
@@ -568,17 +599,21 @@
     "includeOnHomepage": false,
     "explicit": false,
     "tags": [],
-    "streaming": {}
+    "streaming": {
+      "spotify": "",
+      "apple": "",
+      "youtubeMusic": ""
+    }
   },
   {
     "id": "september-skies-happy-days",
-    "num": "01",
+    "num": "27",
     "title": "Happy Days",
     "artist": "September Skies",
     "album": "One Move at a Time",
-    "trackNumber": 99,
-    "albumOrder": 99,
-    "albumCover": "",
+    "trackNumber": 27,
+    "albumOrder": 27,
+    "albumCover": "images/covers/september-skies-one-move-at-a-time-ALBUM-cover.png",
     "type": "single",
     "isLatest": true,
     "cover": "images/covers/september-skies-happy-days-cover.png",
@@ -589,6 +624,10 @@
     "includeOnHomepage": true,
     "explicit": false,
     "tags": [],
-    "streaming": {}
+    "streaming": {
+      "spotify": "",
+      "apple": "",
+      "youtubeMusic": ""
+    }
   }
 ]

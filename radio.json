@@ -2,11 +2,11 @@
   "artist": "September Skies",
   "latestUrl": "latest.json",
   "featuredTrack": {
-    "title": "Bending Not Breaking",
+    "title": "Happy Days",
     "artist": "September Skies",
     "album": "One Move at a Time",
-    "cover": "images/covers/september-skies-bending-not-breaking-cover.png",
-    "audioSrc": "https://www.dropbox.com/scl/fi/ro9nfodo63kytb5fs8q43/september-skies-bending-not-breaking-mp3.mp3?rlkey=6q0vpndzf7qzo8ym50486u798&raw=1",
+    "cover": "images/covers/september-skies-happy-days-cover.png",
+    "audioSrc": "https://www.dropbox.com/scl/fi/e320bo6kzbxqhvs2r8yum/september-skies-happy-days-MP3-mastered.mp3?rlkey=bg0w84dlwi771es2fqa3u0mao&raw=1",
     "videos": []
   },
   "tracks": [
@@ -26,7 +26,7 @@
       "audioSrc": "https://www.dropbox.com/scl/fi/kiziora8etw8oyhe7hi0s/september-skies-Butterlies-mp3-v4.mp3?rlkey=xpx7hwu2tftda8mccy1brk64k&st=5cxv3p2r&raw=1",
       "videos": [
         {
-          "youtube": "https://youtu.be/SO5dhlgEASw",
+          "youtube": "https://youtu.be/SO5dhlgEASw?si=rvDpo63ngx6qaOZf",
           "title": "Official Video",
           "order": 1
         }
@@ -110,7 +110,13 @@
       "album": "One Move at a Time",
       "cover": "images/covers/september-skies-one-move-at-a-time-cover.png",
       "audioSrc": "https://www.dropbox.com/scl/fi/d1e4kiyy4xme7g4656jrt/one-move-at-a-time-live-premier.mp3?rlkey=6acr74q1omxqu2h9kze6xr0h0&raw=1",
-      "videos": []
+      "videos": [
+        {
+          "youtube": "https://youtu.be/K3Odh6UPGf4?si=shCYeARlfW0IFkJ6",
+          "title": "Official Video",
+          "order": 1
+        }
+      ]
     },
     {
       "title": "Open Souls",
@@ -174,6 +180,14 @@
       "album": "One Move at a Time",
       "cover": "images/covers/september-skies-turn-back-time-cover.png",
       "audioSrc": "https://www.dropbox.com/scl/fi/acgvt3qtfpwabagp3y65f/september-skies-turn-back-time-mp3.mp3?rlkey=kgbjj8nyz75losghc5phbe41y&raw=1",
+      "videos": []
+    },
+    {
+      "title": "Minutes at a Time",
+      "artist": "September Skies",
+      "album": "One Move at a Time",
+      "cover": "images/covers/september-skies-minutes-at-a-time-cover.png",
+      "audioSrc": "https://www.dropbox.com/scl/fi/s0815wt1wrehoxaiofaj9/Minutes-at-a-Time-by-September-Skies.mp3?rlkey=jbxkqi2hy65tjugnlnrqpegu6&st=afvbhbjm&raw=1",
       "videos": []
     },
     {
